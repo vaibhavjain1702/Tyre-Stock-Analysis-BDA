@@ -1,0 +1,47 @@
+Company: Apollo Tyre
+  - Naive: CV RMSE=2.2148, R2=-0.0024
+  - Lasso: CV RMSE=2.2399, R2=-0.0289
+  - ElasticNet: CV RMSE=2.2403, R2=-0.0294
+  - Ridge: CV RMSE=2.2406, R2=-0.0296
+  - LinearRegression: CV RMSE=2.2412, R2=-0.0300
+  - ExtraTrees: CV RMSE=2.4235, R2=-0.1953
+  - SMA5: CV RMSE=2.5758, R2=-0.3758
+  - RandomForest: CV RMSE=2.7628, R2=-0.5450
+  - GradientBoosting: CV RMSE=2.9285, R2=-0.7646
+  Best: Naive (by CV R2=-0.0024)
+
+Company: CEAT
+  - Naive: CV RMSE=2.2485, R2=-0.0017
+  - Lasso: CV RMSE=2.2979, R2=-0.0461
+  - LinearRegression: CV RMSE=2.2981, R2=-0.0463
+  - Ridge: CV RMSE=2.2982, R2=-0.0464
+  - ElasticNet: CV RMSE=2.2982, R2=-0.0464
+  - SMA5: CV RMSE=2.6140, R2=-0.3712
+  - ExtraTrees: CV RMSE=2.7740, R2=-0.5501
+  - RandomForest: CV RMSE=4.5792, R2=-4.4474
+  - GradientBoosting: CV RMSE=5.0441, R2=-6.3240
+  Best: Naive (by CV R2=-0.0017)
+
+Company: JK Tyre
+  - Naive: CV RMSE=2.7164, R2=-0.0026
+  - Lasso: CV RMSE=2.8989, R2=-0.1396
+  - ElasticNet: CV RMSE=2.8991, R2=-0.1398
+  - Ridge: CV RMSE=2.8997, R2=-0.1403
+  - LinearRegression: CV RMSE=2.9013, R2=-0.1416
+  - ExtraTrees: CV RMSE=3.1564, R2=-0.3959
+  - SMA5: CV RMSE=3.2977, R2=-0.4844
+  - RandomForest: CV RMSE=3.3919, R2=-0.6292
+  - GradientBoosting: CV RMSE=6.1215, R2=-5.8266
+  Best: Naive (by CV R2=-0.0026)
+
+Company: MRF
+  - Naive: CV RMSE=1.5697, R2=-0.0023
+  - Lasso: CV RMSE=1.5944, R2=-0.0385
+  - ElasticNet: CV RMSE=1.5951, R2=-0.0395
+  - Ridge: CV RMSE=1.5957, R2=-0.0404
+  - LinearRegression: CV RMSE=1.5963, R2=-0.0410
+  - SMA5: CV RMSE=1.7497, R2=-0.2450
+  - ExtraTrees: CV RMSE=1.9591, R2=-0.7119
+  - GradientBoosting: CV RMSE=2.0215, R2=-0.7674
+  - RandomForest: CV RMSE=2.0119, R2=-0.8861
+  Best: Naive (by CV R2=-0.0023)
