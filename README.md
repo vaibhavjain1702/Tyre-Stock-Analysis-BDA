@@ -102,3 +102,7 @@ Outputs:
 ## License
 
 - Academic use only unless otherwise specified. Add a LICENSE file (e.g., MIT) if you plan to share publicly.
+
+## Report
+
+- [End-term report (PDF)](docs/BDA_End_Term_Report.pdf)
